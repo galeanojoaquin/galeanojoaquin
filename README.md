@@ -1,7 +1,6 @@
  
 
 <h2> Hi, I'm Joaquin Galeano! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Systems Analyst technician at  <a href="http://www.isft177.com">I.S.F.T N° 177 (Buenos Aires, Argentina) </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
