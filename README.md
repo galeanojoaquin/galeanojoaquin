@@ -1,7 +1,7 @@
  
 
 <h2> Hello World! I'm Joaquin Galeano! </h2>
-<p><em>Systems Analyst technician at  <a href="http://www.isft177.com">I.S.F.T N° 177 (Buenos Aires, Argentina) </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Systems Analyst technician at  <a href="http://www.isft177.com">I.S.F.T N° 177 (Buenos Aires, Argentina) </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
  
