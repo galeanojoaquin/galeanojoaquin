@@ -12,7 +12,7 @@
 ## A little more about me...  
 
 ```javascript
-const Joaquín = {
+const joaquin = {
   pronouns: "he",
   code: [Javascript, HTML, CSS, PHP, NodeJS, MySQL],
   tools: [Bootstrap, Linux, Docker]
