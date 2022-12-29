@@ -5,7 +5,7 @@
 </em></p>
 
  
-[![Linkedin: galeanojoaquin](https://img.shields.io/badge/-JoaquinGaleano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-galeano-b1a091120/)](https://www.linkedin.com/in/joaquin-galeano-b1a091120/)
+ 
  
 
 
